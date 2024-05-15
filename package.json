@@ -1,0 +1,22 @@
+{
+  "name": "userspace",
+  "version": "1.0.0",
+  "description": "user space service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pwamly/userspace.git"
+  },
+  "author": "pwamly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pwamly/userspace/issues"
+  },
+  "homepage": "https://github.com/pwamly/userspace#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
